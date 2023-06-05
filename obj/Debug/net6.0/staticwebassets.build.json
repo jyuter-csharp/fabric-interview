@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mxh4niXZlOzIL3TQDjuF44hOteEaOLVqrZ7+dU0QiNs=",
+  "Source": "FabricAPI",
+  "BasePath": "_content/FabricAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
